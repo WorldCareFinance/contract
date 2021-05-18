@@ -700,7 +700,7 @@ contract WorldCareFinance is Context, IERC20, Ownable {
     uint256 private _tBurnTotal;
 
     string private _name = "WorldCare.Finance";
-    string private _symbol = "WorldCare";
+    string private _symbol = "WORLDCARE";
     uint8 private _decimals = 9;
 
     uint256 public _taxFee = 5;
