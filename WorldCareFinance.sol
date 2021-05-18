@@ -703,13 +703,13 @@ contract WorldCareFinance is Context, IERC20, Ownable {
     string private _symbol = "WORLDCARE";
     uint8 private _decimals = 9;
 
-    uint256 public _taxFee = 5;
+    uint256 public _taxFee = 4;
     uint256 private _previousTaxFee = _taxFee;
 
     uint256 public _burnFee = 2;
     uint256 private _previousBurnFee = _burnFee;    
 
-    uint256 public _liquidityFee = 5;
+    uint256 public _liquidityFee = 4;
     uint256 private _previousLiquidityFee = _liquidityFee;
 
     IUniswapV2Router02 public immutable uniswapV2Router;
