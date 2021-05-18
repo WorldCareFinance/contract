@@ -2,6 +2,7 @@
 Website: Worldcare.Finance
 Telegram: https://t.me/WorldCareFinance
 Twitter: https://twitter.com/worldcaretoken
+Github: https://github.com/WorldCareFinance
 **/
 
 pragma solidity ^0.8.4;
@@ -470,8 +471,6 @@ contract Ownable is Context {
         _owner = _previousOwner;
     }
 }
-
-// pragma solidity >=0.5.0;
 
 interface IUniswapV2Factory {
     event PairCreated(address indexed token0, address indexed token1, address pair, uint);
