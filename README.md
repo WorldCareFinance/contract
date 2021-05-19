@@ -1,6 +1,9 @@
 # Smartcontract
 * Smartcontract address : 0xdB178164c599D6ea6A51dFAb6a6F64757Bb3BAe8
 
+# Explorer
+* https://bscscan.com/token/0xdB178164c599D6ea6A51dFAb6a6F64757Bb3BAe8
+
 # Tokenomics
 
 # Website and Social Media
